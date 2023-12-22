@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ytimg.com/vi/hrLfVOXVUpg/maxresdefault_live.jpg",
+        "titre": "Barca vs Madrid",
+        "date": "le samedi 15 avril 2024",
+        "emplacement": "Le stade mythique du Camp Nou",
+        "price": "150 Dh",
+        "heure": "21:00 ",
+        "description": "Le FC Barcelone affrontera le Real Madrid dans un match de football très attendu qui captivera les fans du monde entier. Ce duel épique entre les deux géants du football espagnol se déroulera lors de la deuxième manche de la saison 2023-2024. Le stade mythique du Camp Nou sera le théâtre de cette rencontre mémorable, prévue le samedi 15 avril 2024 à 21h00."
+    },{
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/les-inqualifiables-sia-moi-ya-toi-a-meknes-1.jpeg",
+        "titre": "Les Inqualifiables ",
+        "date": "le dimanche 16 decembre  2024",
+        "emplacement": "Meknes",
+        "price": "500 Dh",
+        "heure": "19:00 ",
+        "description": "Après une tournée sold-out réussi en 2022.Les Inqualifiables sont de retour sur scène avec leur tournée nationale exceptionnelle du spectacle Fan de leur public, Amine et Oubeid attendent impatiemment la rencontre avec leur public fun, et leur donne un RDV à Meknès le 16 décembre 2023 . Soyez nombreux !"
+    },
+    {
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/pauscine-film-al-ikhwan.png",
+        "titre": "Paus'Ciné : Film « Al Ikhwan »",
+        "date": "le dimanche 22 avril 2024",
+        "emplacement": "Megarama Casablanca",
+        "price": "540 Dh",
+        "heure": "22:00 ",
+        "description": "« Al Ikhwan » est une comédie sociale qui raconte l'histoire de 3 amis (Zreka, Charo, et Abdelssadek), originaires d'un bidonville de Casablanca, et qui se considèrent comme des frères. Chacun d’eux a son histoire, ses préoccupations, ses problèmes, mais ils partagent tous les trois la même chose : l'échec dans leur vie marquée par la pauvreté, le chômage et la marginalisation... En cherchant à créer le buzz à travers une vidéo tournée par les 3 jeunes, ils ont été polarisés et se sont fait manipulés à cause de leur naïveté et de leur insouciance et se sont retrouvé ainsi poursuivis par un mandat de perquisition à leur encontre sur l'ensemble du territoire national…"
+    },
+    {
+        "id": 4,
+        "img":"https://i.pinimg.com/736x/f2/6d/99/f26d99b4d68a79bf019545789495c4c9.jpg",
+        "titre": "Raja vs Berkane",
+        "date": "le dimanche 6 mai 2024",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "30 Dh",
+        "heure": "18:00 ",
+        "description": "Le Raja Club Athletic entrera en collision avec la Renaissance Sportive de Berkane dans un affrontement captivant qui captivera les amateurs de football marocain. Cette rencontre palpitante aura lieu lors du match retour de la finale de la Coupe du Trône 2023-2024, prévu le dimanche 6 mai 2024 à 18h00, au Stade Municipal de Berkane."
+    },
+    {
+        "id": 4,
+        "img":"https://gcdn.imgix.net/events/spectacle-la-reine-des-neiges-a-casablanca-16h.jpg",
+        "titre": "Spectacle La Reine des Neiges",
+        "date": "le 17 Décembre 2023",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "300 Dh",
+        "heure": "17:00 ",
+        "description": "Après un grand succès en France , le magnifique  Spectacle et comédie musicale la Reine des Neiges débarque au Maroc pour le plus grand plaisir des enfants et parents !Venez vivre un moment fabuleux avec ce merveilleux spectacle ou se mêlent, chant, danse et comédie .  Les enfants  passeront voyageront en compagnie des artistes dans le monde merveilleux et magique de la Reine des Neiges .Le Spectacle de la Reine des Neiges c’est une œuvre sublime mélangeant rêve et poésie; un voyage musical à travers les folklores ; un beau message plein d'humour et de tendresse.Rendez-vous en famille le 17 Décembre au Megarama de Casablanca avec le magnifique spectacle de la Reine des Neiges !"
+    },
+    {
+        "id": 1,
+        "img": "https://i.ytimg.com/vi/hrLfVOXVUpg/maxresdefault_live.jpg",
+        "titre": "Barca vs Madrid",
+        "date": "le samedi 15 avril 2024",
+        "emplacement": "Le stade mythique du Camp Nou",
+        "price": "150 Dh",
+        "heure": "21:00 ",
+        "description": "Le FC Barcelone affrontera le Real Madrid dans un match de football très attendu qui captivera les fans du monde entier. Ce duel épique entre les deux géants du football espagnol se déroulera lors de la deuxième manche de la saison 2023-2024. Le stade mythique du Camp Nou sera le théâtre de cette rencontre mémorable, prévue le samedi 15 avril 2024 à 21h00."
+    },{
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/les-inqualifiables-sia-moi-ya-toi-a-meknes-1.jpeg",
+        "titre": "Les Inqualifiables ",
+        "date": "le dimanche 16 decembre  2024",
+        "emplacement": "Meknes",
+        "price": "500 Dh",
+        "heure": "19:00 ",
+        "description": "Après une tournée sold-out réussi en 2022.Les Inqualifiables sont de retour sur scène avec leur tournée nationale exceptionnelle du spectacle Fan de leur public, Amine et Oubeid attendent impatiemment la rencontre avec leur public fun, et leur donne un RDV à Meknès le 16 décembre 2023 . Soyez nombreux !"
+    },
+    {
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/pauscine-film-al-ikhwan.png",
+        "titre": "Paus'Ciné : Film « Al Ikhwan »",
+        "date": "le dimanche 22 avril 2024",
+        "emplacement": "Megarama Casablanca",
+        "price": "540 Dh",
+        "heure": "22:00 ",
+        "description": "« Al Ikhwan » est une comédie sociale qui raconte l'histoire de 3 amis (Zreka, Charo, et Abdelssadek), originaires d'un bidonville de Casablanca, et qui se considèrent comme des frères. Chacun d’eux a son histoire, ses préoccupations, ses problèmes, mais ils partagent tous les trois la même chose : l'échec dans leur vie marquée par la pauvreté, le chômage et la marginalisation... En cherchant à créer le buzz à travers une vidéo tournée par les 3 jeunes, ils ont été polarisés et se sont fait manipulés à cause de leur naïveté et de leur insouciance et se sont retrouvé ainsi poursuivis par un mandat de perquisition à leur encontre sur l'ensemble du territoire national…"
+    },
+    {
+        "id": 4,
+        "img":"https://i.pinimg.com/736x/f2/6d/99/f26d99b4d68a79bf019545789495c4c9.jpg",
+        "titre": "Raja vs Berkane",
+        "date": "le dimanche 6 mai 2024",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "30 Dh",
+        "heure": "18:00 ",
+        "description": "Le Raja Club Athletic entrera en collision avec la Renaissance Sportive de Berkane dans un affrontement captivant qui captivera les amateurs de football marocain. Cette rencontre palpitante aura lieu lors du match retour de la finale de la Coupe du Trône 2023-2024, prévu le dimanche 6 mai 2024 à 18h00, au Stade Municipal de Berkane."
+    },
+    {
+        "id": 4,
+        "img":"https://gcdn.imgix.net/events/spectacle-la-reine-des-neiges-a-casablanca-16h.jpg",
+        "titre": "Spectacle La Reine des Neiges",
+        "date": "le 17 Décembre 2023",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "300 Dh",
+        "heure": "17:00 ",
+        "description": "Après un grand succès en France , le magnifique  Spectacle et comédie musicale la Reine des Neiges débarque au Maroc pour le plus grand plaisir des enfants et parents !Venez vivre un moment fabuleux avec ce merveilleux spectacle ou se mêlent, chant, danse et comédie .  Les enfants  passeront voyageront en compagnie des artistes dans le monde merveilleux et magique de la Reine des Neiges .Le Spectacle de la Reine des Neiges c’est une œuvre sublime mélangeant rêve et poésie; un voyage musical à travers les folklores ; un beau message plein d'humour et de tendresse.Rendez-vous en famille le 17 Décembre au Megarama de Casablanca avec le magnifique spectacle de la Reine des Neiges !"
+    },
+    {
+        "id": 1,
+        "img": "https://i.ytimg.com/vi/hrLfVOXVUpg/maxresdefault_live.jpg",
+        "titre": "Barca vs Madrid",
+        "date": "le samedi 15 avril 2024",
+        "emplacement": "Le stade mythique du Camp Nou",
+        "price": "150 Dh",
+        "heure": "21:00 ",
+        "description": "Le FC Barcelone affrontera le Real Madrid dans un match de football très attendu qui captivera les fans du monde entier. Ce duel épique entre les deux géants du football espagnol se déroulera lors de la deuxième manche de la saison 2023-2024. Le stade mythique du Camp Nou sera le théâtre de cette rencontre mémorable, prévue le samedi 15 avril 2024 à 21h00."
+    },{
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/les-inqualifiables-sia-moi-ya-toi-a-meknes-1.jpeg",
+        "titre": "Les Inqualifiables ",
+        "date": "le dimanche 16 decembre  2024",
+        "emplacement": "Meknes",
+        "price": "500 Dh",
+        "heure": "19:00 ",
+        "description": "Après une tournée sold-out réussi en 2022.Les Inqualifiables sont de retour sur scène avec leur tournée nationale exceptionnelle du spectacle Fan de leur public, Amine et Oubeid attendent impatiemment la rencontre avec leur public fun, et leur donne un RDV à Meknès le 16 décembre 2023 . Soyez nombreux !"
+    },
+    {
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/pauscine-film-al-ikhwan.png",
+        "titre": "Paus'Ciné : Film « Al Ikhwan »",
+        "date": "le dimanche 22 avril 2024",
+        "emplacement": "Megarama Casablanca",
+        "price": "540 Dh",
+        "heure": "22:00 ",
+        "description": "« Al Ikhwan » est une comédie sociale qui raconte l'histoire de 3 amis (Zreka, Charo, et Abdelssadek), originaires d'un bidonville de Casablanca, et qui se considèrent comme des frères. Chacun d’eux a son histoire, ses préoccupations, ses problèmes, mais ils partagent tous les trois la même chose : l'échec dans leur vie marquée par la pauvreté, le chômage et la marginalisation... En cherchant à créer le buzz à travers une vidéo tournée par les 3 jeunes, ils ont été polarisés et se sont fait manipulés à cause de leur naïveté et de leur insouciance et se sont retrouvé ainsi poursuivis par un mandat de perquisition à leur encontre sur l'ensemble du territoire national…"
+    },
+    {
+        "id": 4,
+        "img":"https://i.pinimg.com/736x/f2/6d/99/f26d99b4d68a79bf019545789495c4c9.jpg",
+        "titre": "Raja vs Berkane",
+        "date": "le dimanche 6 mai 2024",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "30 Dh",
+        "heure": "18:00 ",
+        "description": "Le Raja Club Athletic entrera en collision avec la Renaissance Sportive de Berkane dans un affrontement captivant qui captivera les amateurs de football marocain. Cette rencontre palpitante aura lieu lors du match retour de la finale de la Coupe du Trône 2023-2024, prévu le dimanche 6 mai 2024 à 18h00, au Stade Municipal de Berkane."
+    },
+    {
+        "id": 4,
+        "img":"https://gcdn.imgix.net/events/spectacle-la-reine-des-neiges-a-casablanca-16h.jpg",
+        "titre": "Spectacle La Reine des Neiges",
+        "date": "le 17 Décembre 2023",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "300 Dh",
+        "heure": "17:00 ",
+        "description": "Après un grand succès en France , le magnifique  Spectacle et comédie musicale la Reine des Neiges débarque au Maroc pour le plus grand plaisir des enfants et parents !Venez vivre un moment fabuleux avec ce merveilleux spectacle ou se mêlent, chant, danse et comédie .  Les enfants  passeront voyageront en compagnie des artistes dans le monde merveilleux et magique de la Reine des Neiges .Le Spectacle de la Reine des Neiges c’est une œuvre sublime mélangeant rêve et poésie; un voyage musical à travers les folklores ; un beau message plein d'humour et de tendresse.Rendez-vous en famille le 17 Décembre au Megarama de Casablanca avec le magnifique spectacle de la Reine des Neiges !"
+    }
+]

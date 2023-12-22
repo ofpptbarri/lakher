@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "img":"https://gcdn.imgix.net/events/hassan-el-fad-who-is-kabour-a-casablanca-14.png",
+        "titre": "Hassan El Fad",
+        "date": "le Mercredi 20 decembre 2024",
+        "emplacement": "Casablanca",
+        "price": "150 ",
+        "heure": "20:30 ",
+        "description": "Le spectacle de Hassan El Fad  se tiendra le Mercredi 20 décembre au Megarama Casablanca .Avec la participation de Mounia lamkimel dans le rôle de Fatiha.Ce personnage a su conquérir tous les foyers marocains et a enregistré le top audience. Ce nouveau spectacle, intitulé WHO'S KABOUR, mettra en avant le personnage en toute sa splendeur, avec une mise en scène exceptionnelle représentée sous forme d'interviews sur scène avec ce personnage incorrigible."
+    },
+    {
+        "id": 2,
+        "img": "https://gcdn.imgix.net/events/les-inqualifiables-sia-moi-ya-toi-a-meknes-1.jpeg",
+        "titre": "Les Inqualifiables",
+        "date": "le dimanche 16 decembre  2024",
+        "emplacement": "Meknes",
+        "price": "200",
+        "heure": "19:00 ",
+        "description": "Après une tournée sold-out réussi en 2022.Les Inqualifiables sont de retour sur scène avec leur tournée nationale exceptionnelle du spectacle Fan de leur public, Amine et Oubeid attendent impatiemment la rencontre avec leur public fun, et leur donne un RDV à Meknès le 16 décembre 2023 . Soyez nombreux !"
+    },
+    {
+        "id": 3,
+        "img":"https://gcdn.imgix.net/events/yassar-wald-nass-a-oujda-4.jpg",
+        "titre": "Yassar 'Wald Nass'",
+        "date": "Samedi 23 Décembre 2023",
+        "emplacement": "Théâtre Mohammed 6 Oujda",
+        "price": "150",
+        "heure": "19:30 ",
+        "description": " Ce jeune humoriste a su imposer sa place et aujourd'hui, en parallèle du spectacle Humouraji et du duo 2h de rire avec Rachid Rafik, Yassar lance une tournée avec son tout premier spectacle en solo Wald Nass."
+    },
+    {
+        "id": 4,
+        "img": "https://gcdn.imgix.net/events/spectacle-la-reine-des-neiges-a-casablanca-16h.jpg",
+        "titre": " La Reine des Neiges",
+        "date": "le 17 Décembre 2023",
+        "emplacement": "Stade Municipal de Berkane",
+        "price": "300 ",
+        "heure": "17:00 ",
+        "description": "Après un grand succès en France , le magnifique  Spectacle et comédie musicale la Reine des Neiges débarque au Maroc pour le plus grand plaisir des enfants et parents !Venez vivre un moment fabuleux avec ce merveilleux spectacle ou se mêlent, chant, danse et comédie .  Les enfants  passeront voyageront en compagnie des artistes dans le monde merveilleux et magique de la Reine des Neiges .Le Spectacle de la Reine des Neiges c’est une œuvre sublime mélangeant rêve et poésie; un voyage musical à travers les folklores ; un beau message plein d'humour et de tendresse. Rendez-vous en famille le 17 Décembre au Megarama de Casablanca avec le magnifique spectacle de la Reine des Neiges !"
+    }
+    ,
+    {
+        "id": 5,
+        "img": "https://gcdn.imgix.net/events/kheiron-dragon-a-casablanca.jpeg",
+        "titre": "KHEIRON",
+        "date": "Mardi 03 Octobre 2023",
+        "emplacement": "Studio des Arts vivants",
+        "price": "250 ",
+        "heure": "20:00 ",
+        "description": "Cette dernière production de Kheiron est un véritable délice pour les amateurs de comédie. Ce génie du stand-up a créé un spectacle hilarant qui promet de faire rire aux éclats tous ceux qui ont la chance de le voir sur scène."
+    }
+]
+    

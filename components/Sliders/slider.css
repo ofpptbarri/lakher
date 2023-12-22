@@ -1,0 +1,13 @@
+#carousel:hover button {
+    display: inline;
+    
+}
+#carousel button {   
+    display: none;
+    top: 0;
+    bottom:  0;
+    overflow: hidden;
+    transition: .9s ease-in-out;
+    
+   
+}

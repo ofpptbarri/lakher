@@ -1,0 +1,53 @@
+[
+    {
+        "id": 2,
+        "img":"https://gcdn.imgix.net/events/pauscine-film-al-ikhwan.png",
+        "titre": "Paus'Ciné : Film « Al Ikhwan »",
+        "date": "le dimanche 22 avril 2024",
+        "emplacement": "Megarama Casablanca",
+        "price": "540 ",
+        "heure": "22:00 ",
+        "description": "« Al Ikhwan » est une comédie sociale qui raconte l'histoire de 3 amis (Zreka, Charo, et Abdelssadek), originaires d'un bidonville de Casablanca, et qui se considèrent comme des frères. Chacun d’eux a son histoire, ses préoccupations, ses problèmes, mais ils partagent tous les trois la même chose : l'échec dans leur vie marquée par la pauvreté, le chômage et la marginalisation... En cherchant à créer le buzz à travers une vidéo tournée par les 3 jeunes, ils ont été polarisés et se sont fait manipulés à cause de leur naïveté et de leur insouciance et se sont retrouvé ainsi poursuivis par un mandat de perquisition à leur encontre sur l'ensemble du territoire national…"
+    },
+    {
+        "id": 3,
+        "img":"https://gcdn.imgix.net/events/avant-premiere-houma-li-bqaw-jouj.jpg",
+        "titre": "Avant-première de Salam",
+        "date": "le samedi 29 avril 2024",
+        "emplacement": "Sofitel Casablanca",
+        "price": "120 ",
+        "heure": "23:00 ",
+        "description": " Le film est présenté en séance spéciale au Festival de Cannes 2022. Après 10 ans de silence, Mélanie Diam's revient à travers un film documentaire puissant et bouleversant, où elle se raconte à coeur ouvert. Pour la première fois face caméra elle se confie, sur la gloire, la psychiatrie, la quête de sens et sa conversion à l'Islam. Elle nous entraîne sur les traces de Diam's et révèle dans ce récit intime et pudique les secrets de son histoire. 'Salam' montre ainsi les difficultés d'exister dans le regard des autres, du public, et aborde la problématique de la santé mentale chez une grande artiste française et le choix délicat de changer de vie. De l'île Maurice au Mali, de Paris à la Tanzanie, à travers ces voyages Mélanie Diam's revient sur les lieux qui ont marqué sa vie.."
+    },
+    {
+        "id": 4,
+        "img":"https://movies.monnaie-services.com/MA/poster/FA74FE8A/320/1444A.jpg",
+        "titre": "Ana machi ana -- انا ماشي انا",
+        "date": "le vendredi 20 decembre 2023",
+        "emplacement": "Sofitel Casablanca",
+        "price": "220 ",
+        "heure": "13:50 ",
+        "description": "Farid, fraîchement marié, se retrouve plongé dans un chaos hilarant lorsque ses ex-femmes surgissent pour perturber son escapade romantique.---- يجد فريد المتزوج حديثًا نفسه في حالة من الفوضى المضحكة عندما تظهر زوجاته السابقات لعرقلة إجازته الرومانسية."
+    },
+    {
+        "id": 5,
+        "img":"https://movies.monnaie-services.com/MA/poster/FB78D77F/320/LX8WD.jpg",
+        "titre": "Aquaman",
+        "date": "le mardi 18 decembre 2023",
+        "emplacement": "Sofitel Casablanca",
+        "price": "200 ",
+        "heure": "15:30 ",
+        "description": "Arthur doit demander l'aide de son demi-frère Orm pour protéger l'Atlantide contre Black Manta, qui a libéré une arme dévastatrice dans sa quête obsessionnelle pour venger la mort de son père."
+    }
+    ,{
+        "id": 1,
+        "img":"https://gcdn.imgix.net/events/film-nayda-kabarha-tsghar-a-megarama-rabat-2.jpg",
+        "titre": "Film Nayda Kabarha Tsghar",
+        "date": "le samedi 28 avril 2024",
+        "emplacement": "Megarama Casablanca",
+        "price": "150 ",
+        "heure": "21:00 ",
+        "description": "Film Nayda Kabarha Tsghar à Megarama Casablanca"
+    }
+   
+]

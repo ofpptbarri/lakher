@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "img": "https://gcdn.imgix.net/events/mas-vs-jss.png",
+        "titre": "MAS vs JSS",
+        "date": "Dimanche 01 Octobre 2023",
+        "emplacement": "Complexe Sportif de Fés",
+        "price": "25 ",
+        "heure": "18H15 ",
+        "description": "Pour le compte de la 5ème journée de la Botola Pro Inwi 2023-2024, le Maghreb Association Sportive de Fès reçoit le Jeunesse Sportive de Soualem le Dimanche 01 Octobre 2023 à 18h15 au Complexe sportif de Fès"
+    },
+    {
+        "id": 2,
+        "img":"https://cdn.guichet.ma/medias/6XBE7owc9iZQIQzLovuFeenHVTliusI5neNreBEN.jpeg?w=900&h=600&fit=clip&auto=format,compress&q=80",
+        "titre": "RCA VS WAC",
+        "date": "le dimanche 23 avril 2024",
+        "emplacement": "Stade Mohamed V",
+        "price": "50 ",
+        "heure": "22H00 ",
+        "description": "Le Raja Club Athletic croisera le fer avec le Wydad Athletic Club dans un face-à-face passionnant qui électrisera les supporters marocains. Cette rencontre palpitante se tiendra lors du match retour de la finale de la Botola Pro 2023-2024, le dimanche 23 avril 2024, à 22h00, au Stade Mohamed V à Casablanca."
+    },
+    {
+        "id": 3,
+        "img":"https://gcdn.imgix.net/events/wac-vs-al-ahly.jpg",
+        "titre": "WAC vs AL AHLY",
+        "date": "Dimanche 11 Juin 2023",
+        "emplacement": "Stade Mohamed V",
+        "price": "50 ",
+        "heure": "20H00 ",
+        "description": " Le Wydad Athletic Club reçoit l'Al Ahly Sporting Club pour le compte du match retour de la finale de la Ligue des Champions de la CAF 2022-2023, le Dimanche 11 Juin 2023 à 20h00 au Complexe sportif Mohammed V."
+    },
+    {
+        "id": 4,
+        "img":"https://cdn.guichet.ma/medias/meujgfqVAgTgXH03XYV74gUW0MPwUyUGBfVK1efr.png?w=900&h=600&fit=clip&auto=format,compress&q=80",
+        "titre": "RCA vs HUSA",
+        "date": "le mercredi 19 octobre 2024",
+        "emplacement": "Stade ADRAR",
+        "price": "50 ",
+        "heure": "18H00 ",
+        "description": "Pour le compte de la 5ème journée de la Botola Pro Inwi 2022-2023, le Raja Club Athletic reçoit le Hassania Union Sport Agadir le Mercredi 19 Octobre 2022 à 20h30 au Complexe Sportif Mohammed V - Casablanca"
+    },
+    {
+        "id": 5,
+        "img":"https://cdn.guichet.ma/medias/UHjfNj2Rdhji3jma4tL1QtnnRvIXdB8qgvCzzvrL.png?w=900&h=600&fit=clip&auto=format,compress&q=80",
+        "titre": "RCA vs FAR",
+        "date": "le dimanche 3 mai 2024",
+        "emplacement": "Stade Mohamed V ",
+        "price": "30 ",
+        "heure": "17H00 ",
+        "description": "Le Raja Athletic Club et les FAR s'apprêtent à livrer un duel intense et captivant lors du match retour de la finale de la Coupe du Trône 2023-2024. L'affrontement tant attendu se déroulera le dimanche 03 septembre  2024 à 17H00, au Stade Mohamed V à Casablanca.."
+    }
+
+   
+]
